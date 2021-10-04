@@ -1,0 +1,26 @@
+{
+  "name": "oauth",
+  "version": "1.0.0",
+  "description": "developing Oauth service using express js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanket108/OAuth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanket108/OAuth/issues"
+  },
+  "homepage": "https://github.com/sanket108/OAuth#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.8",
+    "passport": "^0.5.0",
+    "passport-google-oauth20": "^2.0.0"
+  }
+}
